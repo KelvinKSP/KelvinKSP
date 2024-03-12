@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Sempre em busca de novos conhecimentos, apaixonado por Front-end.
 - 🎓 &nbsp; Estudando por conta própria</a>.
-- 🌱 &nbsp; Aprendendo sobre NodeJS.
+- 🌱 &nbsp; Aprendendo sobre NodeJS e C#.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
